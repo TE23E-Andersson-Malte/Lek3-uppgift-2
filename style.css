@@ -1,0 +1,22 @@
+h1{
+    color: orange;
+    background-color: aqua;
+    text-align: center;
+}
+
+h2{
+    color: aquamarine;
+    background-color: blueviolet;
+}
+
+li{
+    background-color: aliceblue;
+}
+
+p{
+    background-color: aliceblue;
+}
+
+body{
+    background-image: url(./img/ek.jpg);
+}
